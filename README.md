@@ -24,7 +24,7 @@ classic-game-engine/
 ```bash
 git clone https://github.com/cansatir/classic-game-engine.git
 ````
-###Run the game:
+###     Run the game:
 ```bash
 python game.py
 ```
